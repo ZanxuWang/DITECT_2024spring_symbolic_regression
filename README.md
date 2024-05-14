@@ -3,7 +3,7 @@
 # Symbolic Regression Project for DITECT 2024 Spring Research Course
 
 ## Summary
-This project explores and integrates advanced symbolic regression techniques to develop a robust symbolic regression model. The model combines ideas from "Deep Symbolic Regression" (DSR) and "Neural Additive Models" (NAMs) to reduce the search space while maintaining the differentiable characteristics of DSR methods.
+This project explores and integrates advanced symbolic regression techniques to develop a robust symbolic regression model. After a comprehensive literature review on existing symbolic regression techniques, We proposed a model that combines ideas from "Deep Symbolic Regression" (DSR) and "Neural Additive Models" (NAMs) to reduce the search space while maintaining the differentiable characteristics of DSR methods. We also experimented the performance of a recently published KAN network on symbolic regression.
 
 ## Literature Review
 1. **Literature Search**: Conducted a review of 20 papers on symbolic regression techniques and organized the findings into an easily readable Excel table.
